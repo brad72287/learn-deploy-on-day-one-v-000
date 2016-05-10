@@ -3469,6 +3469,14 @@ a:visited {
   background-image: url("../assets/img/anita-ford.jpg");
 }
 
+#brad-reiss-cover {
+  background-image: url("../assets/img/brad-reiss-cover.JPG");
+}
+
+#brad-reiss-card {
+  background-image: url("../assets/img/brad-reiss.JPG");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
